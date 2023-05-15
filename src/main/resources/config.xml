@@ -11,6 +11,9 @@
           class="FirstBean">
         <constructor-arg value="Ldinka"/>
     </bean>
+    <bean id="mazzeratti"
+          class="Mazzeratti">
+    </bean>
 <!--    <bean id="secondBean"-->
 <!--          class="FirstBean">-->
 <!--        <constructor-arg value="Ldinka"/>-->
